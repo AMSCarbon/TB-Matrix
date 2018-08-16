@@ -1,0 +1,12 @@
+Network TB model.
+Author: Aidan McMahon-Smith 
+
+This is the second attempt at an epidemic model for representing the spread antibiotic resistant TB. 
+
+
+TODO: 
+effect of the presence of antibiotic resistance on cure rate/ mutation rate. 
+use armidillo c++ or a similar linear algebra library to improve speed.
+map for variable population density. 
+ask mark about specifying resistances or grouping # of resistances.  
+the transition between the resistant states should explicitly change when antibiotics are present/ abscent. 
